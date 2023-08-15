@@ -1,5 +1,35 @@
-
-
+uptime monitoring tool down discord notification
+![uptime monitoring tool down discord notification](https://github.com/sivanesan36/reactjs-demo/assets/129572904/346dc48a-9dc0-479c-8caf-ab10838e4a67)
+uptime monitoring tool down
+![uptime monitoring tool down](https://github.com/sivanesan36/reactjs-demo/assets/129572904/2cc9b46f-7c22-42fa-82f3-0a2678983932)
+uptime kuma notification setup
+![uptime kuma notification setup](https://github.com/sivanesan36/reactjs-demo/assets/129572904/2b638fb1-9026-49cc-a5c2-2ef5271a5f4e)
+monitoring tool dashboard
+![monitoring tool dashboard](https://github.com/sivanesan36/reactjs-demo/assets/129572904/6563fddd-40ef-481b-bc95-76cdf49d47eb)
+application page web url
+![application page web url](https://github.com/sivanesan36/reactjs-demo/assets/129572904/6206837a-a8aa-4bd8-9628-c85c68227ec9)
+docker images
+![docker images](https://github.com/sivanesan36/reactjs-demo/assets/129572904/3f6ba3a8-2df7-4d01-9afa-2509d0fe1c8e)
+docker hub images
+![docker hub images](https://github.com/sivanesan36/reactjs-demo/assets/129572904/0d69fa7b-3293-4ebd-b5af-703c3eb0613c)
+security group config
+![security group config](https://github.com/sivanesan36/reactjs-demo/assets/129572904/f412487a-bdd6-46f1-a3de-1baffbd69b7c)
+login to server with my IP part 2
+![login to server with my IP part 2](https://github.com/sivanesan36/reactjs-demo/assets/129572904/b33d5201-5914-4b68-9de0-113e892ac972)
+login to server with my IP part 1
+![login to server with my IP part 1](https://github.com/sivanesan36/reactjs-demo/assets/129572904/228bba11-741a-4c4e-ac29-06a2c9e66001)
+jenkins execute command part 3
+![jenkins execute command part 3](https://github.com/sivanesan36/reactjs-demo/assets/129572904/7f105945-bd0d-47b4-a30e-36451df1146f)
+jenkins execute commands part 2
+![jenkins execute commands part 2](https://github.com/sivanesan36/reactjs-demo/assets/129572904/d4fd0e88-140d-489e-9192-06627ecfe84d)
+jenkins execute commands part 1
+![jenkins execute commands part 1](https://github.com/sivanesan36/reactjs-demo/assets/129572904/d069e9be-45f8-4f6f-9cd5-5c23b4fb3080)
+jenkins configuration settings part 2
+![jenkins configuration settings part 2](https://github.com/sivanesan36/reactjs-demo/assets/129572904/e4c620be-95ac-4883-86e6-7c0c87a086e7)
+jenkins configuration settings part 1
+![jenkins configuration settings part 1](https://github.com/sivanesan36/reactjs-demo/assets/129572904/081a6b99-5ccd-4298-981f-0a45a335c7e0)
+jenkins login page
+![jenkins login page](https://github.com/sivanesan36/reactjs-demo/assets/129572904/ca5aadd8-0d59-469c-970c-770c8fb0a4f3)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
